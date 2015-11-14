@@ -1,4 +1,4 @@
-package arcamera.saintsantos.arcamera;
+package arpong.saintsantos1341.arpong;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
