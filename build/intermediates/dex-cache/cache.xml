@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/pre-dexed/debug/classes-2c61356c0860ecb47aa32182c23af8e840946a07.jar" />
+    </item>
+    <item
+        jar="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-2bf57051f7aad6cb0eb7dbf0286b1451a5b72bd7.jar" />
+    </item>
+    <item
+        jar="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-6996ddaf459387bacdd9e0fa405ce55731e7449e.jar" />
+    </item>
+    <item
+        jar="/Users/brijeshrakholia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-20d06dd17787a9bdb458d74fa66ab030109b99a0.jar" />
+    </item>
+    <item
+        jar="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/pre-dexed/debug/classes-0da23911baa4032d64e5a4399c0c2048cd357341.jar" />
+    </item>
+    <item
+        jar="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/pre-dexed/debug/classes-ca7ab0235ed02b022e8a5d04f14075c0ad68d961.jar" />
+    </item>
+    <item
+        jar="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/brijeshrakholia/ubhacking/ARpong/Application/build/intermediates/pre-dexed/debug/classes-e37f2eacd6db2857923aa0c8fe225a4181cf7490.jar" />
+    </item>
+
+</items>
